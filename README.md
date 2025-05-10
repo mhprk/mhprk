@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Welcome to my GitHub profile! I'm an aspiring Web Software Developer passionate about building elegant, user-friendly, and efficient web applications.
 <!--
 **mhprk/mhprk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
