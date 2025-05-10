@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Mihyeon]  
+# 👋 Hi there! I'm Mihyeon!
 
 Welcome to my GitHub profile! I'm an aspiring Web Software Developer passionate about building elegant, user-friendly, and efficient web applications.  
 
@@ -44,8 +44,8 @@ Here are some of my favorite projects:
 
 ## 📫 Let's Connect!
 
-- **LinkedIn:** [[https://www.linkedin.com/in/mihyeon-p-3a38aa2b8/](#)]
-- **Email:** [parkmihyeonn@gmail.com](#)
+- **LinkedIn:** https://www.linkedin.com/in/mihyeon-p-3a38aa2b8/
+- **Email:** parkmihyeonn@gmail.com
 
 ---
 
