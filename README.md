@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Your Name]  
+# 👋 Hi there! I'm [Mihyeon]  
 
 Welcome to my GitHub profile! I'm an aspiring Web Software Developer passionate about building elegant, user-friendly, and efficient web applications.  
 
