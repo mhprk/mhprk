@@ -1,57 +1,29 @@
 # 👋 Hi there! I'm Mihyeon!
 
-Welcome to my GitHub profile! I'm an aspiring Web Software Developer passionate about building elegant, user-friendly, and efficient web applications.  
+Aspiring Web Software Developer passionate about creating user-friendly and efficient web applications. 🚀  
 
 ---
 
 ## 🌟 About Me
 
-- 💻 I enjoy working on **front-end** and **back-end** web development.
-- 🧠 Always learning new technologies and improving my coding skills.
-- 🌱 Currently diving deeper into **python** and **react.js**
-- 🎯 My goal is to become a full-stack developer and contribute to impactful projects.
-- ⚡ Fun fact: I love cats and going to museums!
+- 💻 Exploring **front-end** and **back-end** development.
+- 🌱 Learning **Python**, **React.js**, and **Next.js**.
+- 🎯 Aiming to become a full-stack developer.
+- ⚡ Fun fact: I love cats and museums!
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Skills
 
-### 🌐 Web Development:
-- **Languages:** HTML, CSS, JavaScript
-- **Frameworks & Libraries:** React, Node.js, Express.js
-- **Databases:** MongoDB, MySQL
-- **Version Control:** Git, GitHub
-
-### 🧰 Tools:
-- Visual Studio Code
-- Figma (for prototyping)
-
-### 🛠️ Currently Learning:
-- TypeScript
-- Next.js
-- Python
----
-
-## 📂 My Projects
-
-Here are some of my favorite projects:
-
-1. **Portfolio Website**  
-   _A responsive portfolio website to showcase my skills and projects._  
-   [View Repository](#) | [Live Demo](#)
+- **Languages:** HTML, CSS, JavaScript  
+- **Frameworks:** React, Node.js  
+- **Tools:** Git, GitHub, VS Code  
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Connect
 
-- **LinkedIn:** https://www.linkedin.com/in/mihyeon-p-3a38aa2b8/
-- **Email:** parkmihyeonn@gmail.com
-
----
-
-## 🧭 Goals for 2025
-
-- Build 5+ full-stack projects.
-- Contribute to open-source projects.
+- **LinkedIn:** [Mihyeon Park](https://www.linkedin.com/in/mihyeon-p-3a38aa2b8/)  
+- **Email:** parkmihyeonn@gmail.com  
 
 ---
